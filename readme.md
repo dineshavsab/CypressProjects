@@ -43,3 +43,6 @@ This will open a web browser (an electron application) that looks like this
 
 12. A modal page should appear like this and click on 'Okay, I got it!'
 ![Okay](https://github.com/dineshavsab/CypressProjects/blob/e48375c8fd88da4b4fddb7619963cb6d10a6d0a2/docs/Scaffold%20Modal.png)
+
+13. Screen after Scaffolding
+![Final Screen](https://github.com/dineshavsab/CypressProjects/blob/dcbdb29c6da5f462af9753e6ad8e29e7acda590a/docs/Final%20Page%20after%20Scaffolding.png)
