@@ -47,10 +47,17 @@ This will open a web browser (an electron application) that looks like this
 13. Screen after Scaffolding
 ![Final Screen](https://github.com/dineshavsab/CypressProjects/blob/dcbdb29c6da5f462af9753e6ad8e29e7acda590a/docs/Final%20Page%20after%20Scaffolding.png)
 
-That's it - You have successfully setup the Cypress environment on your machine now.
+You have successfully setup the Cypress environment on your machine now.
 
 When you click on the todo.cy.js, you will see
 ![todo.cy.js](https://github.com/dineshavsab/CypressProjects/blob/42db2e073f102770d3649f356afebce10f99d552/docs/todo.cy.js.png)
 
 Test results of todo.cy.js 
 ![testresults](https://github.com/dineshavsab/CypressProjects/blob/42db2e073f102770d3649f356afebce10f99d552/docs/test%20results.png)
+
+
+Congratulations !!! 
+
+You have now completed the setup of hello world. 
+
+You are free to explore the other tests as required.
