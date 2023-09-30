@@ -23,11 +23,11 @@ My hope is that this effort will not be a standard run off the mill type of docu
     "cypress": "^13.3.0"
   }
 }
+```
 This means that for my program to run, I am depending on a package or software called "cypress" and the minimum version of that package I am expecting to work with is 13.3.0
 
-```
 8. Then from the same folder in the command prompt `C:\CypressProjects\helloWorld`, execute this command. `npx cypress open`
 
 This will open a web browser (an electron application) that looks like this
-![alt](https://)
+![alt](https://github.com/dineshavsab/CypressProjects/blob/4e7ff3fdc22a8e3f004b1de0407918ec9a3d9c6b/docs/initial_cypress_setup.png)
     
