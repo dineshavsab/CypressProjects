@@ -46,3 +46,11 @@ This will open a web browser (an electron application) that looks like this
 
 13. Screen after Scaffolding
 ![Final Screen](https://github.com/dineshavsab/CypressProjects/blob/dcbdb29c6da5f462af9753e6ad8e29e7acda590a/docs/Final%20Page%20after%20Scaffolding.png)
+
+That's it - You have successfully setup the Cypress environment on your machine now.
+
+When you click on the todo.cy.js, you will see
+![todo.cy.js](https://)
+
+Test results of todo.cy.js 
+![testresults](https://)
