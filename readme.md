@@ -30,4 +30,7 @@ This means that for my program to run, I am depending on a package or software c
 
 This will open a web browser (an electron application) that looks like this
 ![alt](https://github.com/dineshavsab/CypressProjects/blob/4e7ff3fdc22a8e3f004b1de0407918ec9a3d9c6b/docs/initial_cypress_setup.png)
-    
+
+9. Click on the Not Configured button of E2E Testing     
+
+10. 
