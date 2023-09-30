@@ -50,7 +50,7 @@ This will open a web browser (an electron application) that looks like this
 That's it - You have successfully setup the Cypress environment on your machine now.
 
 When you click on the todo.cy.js, you will see
-![todo.cy.js](https://)
+![todo.cy.js](https://github.com/dineshavsab/CypressProjects/blob/42db2e073f102770d3649f356afebce10f99d552/docs/todo.cy.js.png)
 
 Test results of todo.cy.js 
-![testresults](https://)
+![testresults](https://github.com/dineshavsab/CypressProjects/blob/42db2e073f102770d3649f356afebce10f99d552/docs/test%20results.png)
