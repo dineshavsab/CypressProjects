@@ -34,5 +34,9 @@ This will open a web browser (an electron application) that looks like this
 9. Click on the Not Configured button of E2E Testing  
 ![E2E Configuration](https://github.com/dineshavsab/CypressProjects/blob/d853599612340d9e588b17888ec715c1c06987b7/docs/setup%202.png)   
 
-10. Click Continue. And Setup Chrome
+10. #### Start E2E Testing in Chrome
 ![Setup Chrome](https://github.com/dineshavsab/CypressProjects/blob/8bfcd5c3e0d4742de868a770c26f452d2b4df63f/docs/Setup%20Chrome.png)
+
+11. ### Scaffolding Default Examples
+  Click on 'Scaffold example specs' 
+  
