@@ -29,8 +29,9 @@ This means that for my program to run, I am depending on a package or software c
 8. Then from the same folder in the command prompt `C:\CypressProjects\helloWorld`, execute this command. `npx cypress open`
 
 This will open a web browser (an electron application) that looks like this
-![alt](https://github.com/dineshavsab/CypressProjects/blob/4e7ff3fdc22a8e3f004b1de0407918ec9a3d9c6b/docs/initial_cypress_setup.png)
+![Initial Setup](https://github.com/dineshavsab/CypressProjects/blob/4e7ff3fdc22a8e3f004b1de0407918ec9a3d9c6b/docs/initial_cypress_setup.png)
 
-9. Click on the Not Configured button of E2E Testing     
+9. Click on the Not Configured button of E2E Testing  
+![E2E Configuration](https://github.com/dineshavsab/CypressProjects/blob/d853599612340d9e588b17888ec715c1c06987b7/docs/setup%202.png)   
 
-10. 
+10. Click Continue. And Setup Chrome
