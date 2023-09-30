@@ -41,4 +41,4 @@ This will open a web browser (an electron application) that looks like this
   Click on 'Scaffold example specs' 
   ![Scaffold](https://github.com/dineshavsab/CypressProjects/blob/1775536548c773c7732f69ff9973fe997cbe00d6/docs/Initial%20Cypress%20App%20Before%20Scaffolding.png)
 
-  
+12. 
