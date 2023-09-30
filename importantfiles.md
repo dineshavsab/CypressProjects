@@ -4,4 +4,4 @@ Once you have done the basic installation and the default configuration, you wil
 
 ![#### alt][defaultFiles]
 
-[defaultFiles]: https://
+[defaultFiles]: docs/Default Files.png
