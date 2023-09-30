@@ -41,4 +41,5 @@ This will open a web browser (an electron application) that looks like this
   Click on 'Scaffold example specs' 
   ![Scaffold](https://github.com/dineshavsab/CypressProjects/blob/1775536548c773c7732f69ff9973fe997cbe00d6/docs/Initial%20Cypress%20App%20Before%20Scaffolding.png)
 
-12. 
+12. A modal page should appear like this and click on 'Okay, I got it!'
+![Okay](https://github.com/dineshavsab/CypressProjects/blob/e48375c8fd88da4b4fddb7619963cb6d10a6d0a2/docs/Scaffold%20Modal.png)
