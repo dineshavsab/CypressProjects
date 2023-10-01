@@ -1,7 +1,7 @@
 {
     
     "compilerOptions": {
-        "baseUrl": ".",
+        "baseUrl": "http://localhost:4200/",
         "target": "ES5",
         "lib": ["ES5", "DOM"],
         "types": ["cypress", "node"]
