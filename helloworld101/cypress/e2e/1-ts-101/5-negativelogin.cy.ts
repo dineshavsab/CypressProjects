@@ -7,6 +7,5 @@ it('Enters a value for User Id', () =>
         .type('testing')
     cy.get('[data-cy="submit"]')
         .click()            
-
-    cy.url().should('eq', `${Cypress.config().baseUrl}unauthorized` )
+    cy.location('pathname').should('equal', '/unauthorized')
 })
