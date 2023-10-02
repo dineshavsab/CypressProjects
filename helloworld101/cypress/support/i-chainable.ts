@@ -1,6 +1,5 @@
 
 import './my-chainable-commands'
-import './appcommands'
 
 declare global{
     namespace Cypress {
