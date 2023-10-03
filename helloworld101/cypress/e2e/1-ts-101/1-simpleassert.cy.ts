@@ -13,7 +13,7 @@ describe('This is to help understand a test case breakup', ()=>
 {
     it('if numbers are not equal to each other' , () =>
     {
-        expect(1).not.equal(3);
+        expect(1).equal(3);
     })
 
 });

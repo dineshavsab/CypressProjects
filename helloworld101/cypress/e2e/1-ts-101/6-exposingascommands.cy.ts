@@ -16,7 +16,8 @@ it('Enters a value for User Id using Custom Commands', () =>
     cy.getMyElementByName("password")
     .type('test');
     cy.getMyElementByName('submit')
-    .click();
+    .click();  
+        
 
     cy.location('pathname').should('equal', '/homepage')
 })

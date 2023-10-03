@@ -1,5 +1,5 @@
 
-import type {userData } from '../../fixtures/userdata.model'
+import type {userAddressData, userData } from '../../fixtures/userdata.model'
 
 it('Loads data from Fixture to test scenarios', () =>
 {
@@ -16,14 +16,30 @@ it('Loads data from Fixture to test scenarios', () =>
     // not defined in the interface, typescript will throw exception
     // That is SO NEAT !   
 
+    /*
+    cy.fixture< { userNewData : userAddressData[]}>('userData.json')
+    .its('userAddress')
+    .should('be.an', 'array')
+    .then( (userExtendedData) =>
+    {
+        userExtendedData.forEach( userSingleData => {
+            // Whateven action 
+        })
+    }
+    )
+    */
+
+
     cy.fixture< {users : userData[]} >('userData.json')
     .its('userData') 
     .should('be.an',  'array')
-    .then( (users ) =>
+    .then( (users : userData[] ) =>
     {
         users.forEach(user => {
             cy.visit('login')      
-               
+            
+            
+
             cy.getMyElementByName('userid').type(user.userid);
             cy.getMyElementByName('password').type(user.password);
             cy.getMyElementByName('submit').click()
